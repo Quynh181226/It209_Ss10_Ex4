@@ -1,0 +1,13 @@
+{
+  "name": "session10-ex4-backend",
+  "version": "1.0.0",
+  "description": "Backend Web API connecting to PostgreSQL via Docker Custom Bridge Network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
